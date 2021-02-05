@@ -1,0 +1,8 @@
+# double press the Itsy reset button - tap tap!
+# drive changes to 'ITSYM4BOOT'
+# drag latest firmware and keep fingers crossed that none of your code was depreciated!
+# https://circuitpython.org/board/itsybitsy_m4_express/
+# if not loading new bootloader/firmware press reset again to return to Circuit python - 'CIRCUITPY'
+# using thonny or Mu connecting to the REPL will display what version you are on i.e.
+# Adafruit CircuitPython 4.1.2 on 2019-12-18; Adafruit ItsyBitsy M4 Express with samd51g19
+# >>>
