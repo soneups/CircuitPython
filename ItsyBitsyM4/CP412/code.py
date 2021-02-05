@@ -3,6 +3,7 @@
 # (c) github.com/soneups
 # 3March2019
 # 5Feb2021 upgrade to CP 4.1.2 no backend crash on Thonny this code breaks on CP 6.x.x 'SCL in use'
+# HT: https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/circuitpython
 #.
 
 import board
